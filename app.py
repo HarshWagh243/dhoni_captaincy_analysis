@@ -6,6 +6,8 @@ st.set_page_config(page_title="The Dhoni Myth", layout="wide")
 st.title("🏏 The Dhoni Myth")
 st.subheader("Did MS Dhoni win because of his teammates, or despite them?")
 
+st.markdown("[📂 View source code on GitHub](https://github.com/HarshWagh243/dhoni_captaincy_analysis)")
+
 st.markdown("""
 MS Dhoni is one of cricket's most debated captains. I analyzed ball-by-ball data 
 from **188 ODI matches** during his captaincy era (2007–2014) to test four 
